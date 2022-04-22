@@ -99,3 +99,4 @@ struct RectangleColor: View {
             .cornerRadius(20)
     }
 }
+//: Add .gitignore
